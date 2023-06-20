@@ -2,7 +2,8 @@
 
 /**
  * main - main block
- * Write a program that prints all single digit numbers of base 10 starting from 0, followed by a new line
+ * Write a program that prints all single digit numbers of
+ * base 10 starting from 0, followed by a new line
  * You are not allowed to use any variable of type char.
  * You can only use `putchar` function
  * You can only use `putchar` twice.
