@@ -2,7 +2,8 @@
 
 /**
  * main - main block
- * Write a program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.
+ * Write a program that prints the alphabet in lowercase,
+ * and then in uppercase, followed by a new line.
  * Use `putchar` functions
  * Return: Always 0 (Success)
  */
