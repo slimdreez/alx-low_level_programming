@@ -4,7 +4,8 @@
 
 /**
  * main - main block
- * This program will assign a random number to the variable n each time it is executed
+ * This program will assign a random number to the
+ * variable n each time it is executed
  * print statements based on the last digit of the random number.
  * Return: Always 0 (Success)
  */
