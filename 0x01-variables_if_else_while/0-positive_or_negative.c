@@ -11,8 +11,8 @@
  */
 
 int main(void)
+	//Random
 {
-	// Betty documentations style
 	int n;
 
 	srand(time(0));
