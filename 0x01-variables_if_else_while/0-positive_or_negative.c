@@ -10,7 +10,7 @@
  * Return: Always 0 (Success)
  */
 
-/* Betty documentation style */
+/* 0-positive_or_negative.c */
 int main(void)
 {
 	int n;
