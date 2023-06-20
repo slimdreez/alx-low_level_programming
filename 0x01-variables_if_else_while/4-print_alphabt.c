@@ -2,7 +2,8 @@
 
 /**
  * main – main block
- * Write a program that prints the alphabet in lowercase, followed by a new line.
+ * Write a program that prints the alphabet in lowercase,
+ * followed by a new line.
  * Except q and e
  * Return: Always 0 (Success)
  */
@@ -15,7 +16,7 @@ int main(void)
 	{
 		if (x != 'e' && x != 'q')
 		{
-			putchar(c);
+			putchar(x);
 		}
 		x++;
 	}
