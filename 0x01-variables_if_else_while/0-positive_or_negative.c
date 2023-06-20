@@ -7,10 +7,14 @@
  * This program will assign a random number to the
  * variable n each time it is executed
  * And states whether it is positive, negative or zero
+ * The variable n will store a different value every time
+ * you will run this program
+ * if the number is greater than 0: is positive
+ * if the number is 0: is zero
+ * if the number is less than 0: is negative
  * Return: Always 0 (Success)
  */
 
-/* 0-positive_or_negative.c */
 int main(void)
 {
 	int n;
