@@ -10,8 +10,8 @@
  * Return: Always 0 (Success)
  */
 
+/* Betty documentation style */
 int main(void)
-	//Random
 {
 	int n;
 
