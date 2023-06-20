@@ -2,11 +2,14 @@
 
 /**
  * main - main block
- * Write a program that prints all possible different combinations of two digits.
+ * Write a program that prints all possible different
+ * combinations of two digits.
  * Numbers must be separated by (,), followed by space
- * 01 and 10 are considered as the same combination of the two digits.
+ * 01 and 10 are considered as the same combination of 
+ * the two digits.
  * Print only the smallest combination of two digits.
- * Numbers should be printed in ascending order, with two digits.
+ * Numbers should be printed in ascending order, with 
+ * two digits.
  * You can only use `putchar` function
  * You can only use `putchar` up to 5 times.
  * You are not allowed to use any variable of type `char`.

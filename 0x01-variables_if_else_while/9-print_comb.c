@@ -2,7 +2,8 @@
 
 /**
  * main - main block
- * Write a program that prints all possible combinations of single-digit numbers
+ * Write a program that prints all possible
+ * combinations of single-digit numbers
  * Numbers must be separated (,), followed by space.
  * Use `putchar` function
  * You can only use `putchar` up to four times.
